@@ -1,6 +1,6 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
+ * Created by: Joos
  * Created on: Nov 2024
  * This program uses while loops to move pixels
 */
